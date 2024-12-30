@@ -1,3 +1,11 @@
+
+Name: Arun Sai Ganesh Desetti
+Company: CodTech IT Solutions
+ID: CT12EQB
+Domain: Full Stack Web Development
+Duratoin: 17-12-2024 to 17-02-2025
+
+
 # CodTech-task-1
 # EcoHome - Sustainable Living Products
 
