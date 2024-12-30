@@ -60,3 +60,13 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 ## Author
 [Your Name](https://github.com/yourusername) - Web Developer and Designer.
 
+
+
+
+# output:
+
+![Screenshot 2024-12-30 233006](https://github.com/user-attachments/assets/820711d3-4a19-40e5-9be8-fbe224d9b1e9)
+![Screenshot 2024-12-30 232905](https://github.com/user-attachments/assets/b3558628-32a0-4663-9efe-8ad960668fff)
+![Screenshot 2024-12-30 232845](https://github.com/user-attachments/assets/b0c073af-6c2d-443d-9176-e942a692985b)
+![Screenshot 2024-12-30 232808](https://github.com/user-attachments/assets/5192ad60-6b1b-45c7-940f-c4641da1e7b1)
+![Screenshot 2024-12-30 232834](https://github.com/user-attachments/assets/99598267-b644-4aef-9e7a-a31c5218972d)
