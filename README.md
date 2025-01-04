@@ -27,7 +27,7 @@ EcoHome is a responsive e-commerce website that promotes sustainable living by o
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecohome.git
+   git clone https://github.com/arundesetti/ecohome.git
    ```
 2. Navigate to the project folder:
    ```bash
