@@ -58,7 +58,7 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 - Fonts by [Google Fonts](https://fonts.google.com/).
 
 ## Author
-[Your Name](https://github.com/yourusername) - Web Developer and Designer.
+[Arun](https://github.com/arundesetti) - Web Developer and Designer.
 
 
 
